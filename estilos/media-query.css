@@ -18,6 +18,7 @@ TV: de 1200px adiante
 
     section#login {
         width: 90vw;
+        height: 390px;
     }
 
     section#login > div#imagem {
